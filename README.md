@@ -15,7 +15,7 @@
 <br />
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0211&layout=compact&theme=github_dark&hide_border=true"/>
 <p>
-🌱 My name is Nguyen Duc Hoa, I’m come from Viet Nam.
+🌱 My name is Nguyen Duc Hoa, I come from Viet Nam.
 
 👉 I'm mobile and backend developer
 
