@@ -19,7 +19,7 @@
 
 👉 I'm mobile and backend developer
 
-🔖 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+🔖 &nbsp; Checkout my [Resume](https://www.figma.com/file/hmhOl4icuIZ4YK1VjR3Tpi/NguyenDucHoa_CV?node-id=204%3A2).
 
 </p>
 
