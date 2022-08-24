@@ -2,6 +2,8 @@
   <h1 align="left"><b>Hi there, I'm Coder0211 🚀</h1>
 </p>
 
+<p align="center"><img src="animation.gif" width="35%"></p>
+
 <h2 align="center">About me 🏈</h2>
 <br />
 <p>
