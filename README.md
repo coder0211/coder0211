@@ -21,6 +21,18 @@
 
 🛠 Languages and Tools
 
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/dart.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/flutter.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/kotlin.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/nodejs.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/python.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/android-os.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/mysql.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/vscode.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/android-studio.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/intellij-idea.svg" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/figma.svg" alt="cpp"></code>
+
 🔖 &nbsp; Checkout my [Resume](https://www.figma.com/proto/hmhOl4icuIZ4YK1VjR3Tpi/NguyenDucHoa_CV?node-id=206%3A266&scaling=min-zoom&page-id=204%3A2).
 
 </p>
