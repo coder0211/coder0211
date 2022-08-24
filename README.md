@@ -19,7 +19,7 @@
 
 👉 I'm mobile and backend developer
 
-🔖 &nbsp; Checkout my [Resume](https://www.figma.com/file/hmhOl4icuIZ4YK1VjR3Tpi/NguyenDucHoa_CV?node-id=204%3A2).
+🔖 &nbsp; Checkout my [Resume](https://www.figma.com/proto/hmhOl4icuIZ4YK1VjR3Tpi/NguyenDucHoa_CV?node-id=206%3A266&scaling=min-zoom&page-id=204%3A2).
 
 </p>
 
