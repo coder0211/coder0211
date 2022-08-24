@@ -15,6 +15,10 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=coder0211&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0211&layout=compact&theme=radical" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder0211&layout=compact&theme=github_dark&hide_border=true"/>
+      <a href="https://github.com/coder0211">
+        <img src="https://github-readme-stats.vercel.app/api?username=coder0211&theme=github_dark&show_icons=true&hide_border=true"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder0211&theme=github-dark-blue&hide_border=true" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=coder0211&theme=react-dark" />
+    </a>
 </p>
