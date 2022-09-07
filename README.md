@@ -17,6 +17,8 @@
 <p>
 🌱 My name is Nguyen Duc Hoa, I come from Viet Nam.
 
+🎂 02/11/2001
+
 👉 I'm mobile and backend developer
 
 🛠 Languages and Tools
