@@ -35,7 +35,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/intellij-idea.svg" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/coder0211/coder0211/main/languages_tools/figma.svg" alt="cpp"></code>
 
-🔖 &nbsp; Checkout my [Resume](https://www.figma.com/proto/hmhOl4icuIZ4YK1VjR3Tpi/Resume?node-id=204%3A3&scaling=scale-down&page-id=204%3A2).
+🔖 &nbsp; Checkout my [Resume](https://www.figma.com/proto/hmhOl4icuIZ4YK1VjR3Tpi/Resume?page-id=821%3A11&type=design&node-id=821-12&viewport=248%2C295%2C0.93&t=ALiyqIshmbhXP7V0-1&scaling=min-zoom&mode=design).
 
 </p>
 
