@@ -1,5 +1,5 @@
 <p>
-  <h1 align="left"><b>Hi there, I'm Coder0211 🚀</h1>
+  <h1 align="left"><b>Hi there, I'm Eric 🚀</h1>
 </p>
 
 <p align="center"><img src="animation.gif" width="35%"></p>
@@ -19,7 +19,7 @@
 
 🎂 02/11/2001
 
-👉 I'm mobile and backend developer
+👉 I am a Software and AI Engineer
 
 🛠 Languages and Tools
 
